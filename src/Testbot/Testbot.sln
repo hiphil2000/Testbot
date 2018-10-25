@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testbot", "Testbot\Testbot.csproj", "{298EFC8E-8AF2-417F-9732-14810618F793}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testbot", "Testbot\Testbot.csproj", "{9D73E89C-290C-4A48-9347-B5807114B56E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{298EFC8E-8AF2-417F-9732-14810618F793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{298EFC8E-8AF2-417F-9732-14810618F793}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{298EFC8E-8AF2-417F-9732-14810618F793}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{298EFC8E-8AF2-417F-9732-14810618F793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D73E89C-290C-4A48-9347-B5807114B56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D73E89C-290C-4A48-9347-B5807114B56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D73E89C-290C-4A48-9347-B5807114B56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D73E89C-290C-4A48-9347-B5807114B56E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C9396B1F-B9FF-4FAF-B4EA-D01F47A64B89}
+		SolutionGuid = {430E75CC-A2AB-4EC2-9076-CC4A55873DDD}
 	EndGlobalSection
 EndGlobal
